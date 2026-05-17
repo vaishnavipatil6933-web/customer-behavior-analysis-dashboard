@@ -31,15 +31,16 @@ Built an end-to-end analytics pipeline to clean, integrate, and visualize data f
 - Detected seasonal demand shifts across product categories
 - Highlighted high-performing store regions for business growth
 
-## Dashboard Screenshots
+Dashboard Screenshots
 ### Business Performance Overview
 ![Overview Dashboard](Overview.png)
 
 ### Customer Behavior & Retention Insights
-![Customer Dashboard](customer behaviour insights.png)
+![Customer Dashboard](customer%20behaviour%20insights.png)
 
 ### Product & Market Performance
-![Product Dashboard](Product and market.png)
+![Product Dashboard](Product%20and%20market.png)
+
 
 ## Repository Contents
 - Python notebooks for data cleaning
