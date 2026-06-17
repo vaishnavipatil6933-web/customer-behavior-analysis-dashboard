@@ -58,13 +58,13 @@ The dataset is a retail orders and customer practice dataset sourced from **Mave
 ## Dashboard Screenshots
 
 **Executive Business Overview** — high-level KPIs and monthly trend lines for profit, orders, and active customers.
-![Executive Business Overview](screenshots/executive_overview.png)
+![Executive Business Overview]("C:\Users\vcvm2\OneDrive\customer\Overview.png")
 
 **Customer Behavior & Retention Insights** — top customers by profit contribution, repeat vs. new customer split, and geographic distribution.
-![Customer Behavior & Retention Insights](screenshots/customer_retention_insights.png)
+![Customer Behavior & Retention Insights]("C:\Users\vcvm2\OneDrive\customer\customer behaviour insights.png")
 
 **Product Demand vs. Profit Analysis** — quantity sold vs. profit by product, category demand trends over time, and store performance by state.
-![Product Demand vs Profit Analysis](screenshots/product_demand_analysis.png)
+![Product Demand vs Profit Analysis]("C:\Users\vcvm2\OneDrive\customer\Product and market.png")
 
 ## Repository Structure
 
